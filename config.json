@@ -2,8 +2,8 @@
 	"pools":[
 	{
 		"name": "DOGE",
-        "url": "stratum+tcp://scrypt.stratum.powerpool.io:3333,
-stratum+tcp://sha256.stratum.powerpool.io:3333
+        "url": "stratum+tcp://scrypt.stratum.powerpool.io:3333
+		stratum+tcp://sha256.stratum.powerpool.io:3333
 stratum+tcp://eaglesong.stratum.powerpool.io:3333
 stratum+tcp://blake2s.stratum.powerpool.io:3333
 stratum+tcp://x11.stratum.powerpool.io:3333
